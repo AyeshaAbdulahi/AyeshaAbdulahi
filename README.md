@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Ayesha! <br/><a href="https://www.linkedin.com/in/ayesha-abdullahi">Undergraduate Student at George Mason University</a> <a href="https://github.com/ayeshaabdullahi">and Aspiring Data Scientist</a> 
+
+<h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧):</h2>
+
+
+
+<h2>⭐️ Certifications</h2>
+
+- [Intro to Technical Interview Prep](https://drive.google.com/file/d/1SCf56nh3HI9o7MSPBzKx3Os2NPojF0uO/view?usp=sharing)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayesha-abdullahi/)
+
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**ayeshaabdullahi/ayeshaabdullahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
