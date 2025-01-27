@@ -2,6 +2,7 @@
 
 <h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧):</h2>
 
+- [Phone Database](https://github.com/ayeshaabdullahi/Phone-Database)
 
 
 <h2>⭐️ Certifications</h2>
