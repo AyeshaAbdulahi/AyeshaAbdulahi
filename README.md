@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ayesha! <br/><a href="https://www.linkedin.com/in/ayesha-abdullahi">Undergraduate Student at George Mason University</a> <a href="https://github.com/ayeshaabdullahi">and Aspiring Data Scientist</a> 
 
-<h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧, repositories listed below):</h2>
+<h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧, other repositories listed below):</h2>
 
 - [Phone Database](https://github.com/ayeshaabdullahi/Phone-Database)
 
