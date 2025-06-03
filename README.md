@@ -3,6 +3,12 @@
 <h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧, other repositories listed below):</h2>
 
 - [Phone Database](https://github.com/ayeshaabdullahi/Phone-Database)
+- [Data Analysis for Sustainability Project](https://github.com/ayeshaabdullahi/Data-Analysis-for-Sustainability-Project)
+- [Website Audience Analysis Project](https://github.com/ayeshaabdullahi/Website-Audience-Analysis-Project)
+- [Netflix vs Hulu: Analyzing Streaming Service Content](https://github.com/ayeshaabdullahi/Netflix-vs.-Hulu-Analyzing-Streaming-Service-Content)
+- [Orbital Space Launches Dashboard](https://github.com/ayeshaabdullahi/Tableau-Dashboard)
+- [Crime Analysis Project](https://github.com/ayeshaabdullahi/DATA-ANALYSIS-PROJECT)
+
 
 
 <h2>⭐️ Certifications</h2>
