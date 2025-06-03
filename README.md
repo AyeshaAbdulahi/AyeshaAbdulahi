@@ -14,6 +14,9 @@
 <h2>⭐️ Certifications</h2>
 
 - [Intro to Technical Interview Prep](https://drive.google.com/file/d/1SCf56nh3HI9o7MSPBzKx3Os2NPojF0uO/view?usp=sharing)
+- [Google AI Certificate](https://drive.google.com/file/d/1w1Yesd26hKmb7pICh_pmSni48ImAHqsa/view?usp=sharing)
+- [Python Specialist](https://www.credential.net/35a8a5ef-e292-4558-9918-19ee14941ef4#acc.SywIENmg)
+- [SQL Specialist](https://www.credential.net/30c6c541-0fe7-482b-a712-e2812a93c3f7#acc.U1XVmMrW)
 
 
 <h2> 🤳 Connect with me:</h2>
