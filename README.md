@@ -23,7 +23,7 @@
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayesha-abdullahi/)
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ayesha-abdullahi/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" />](https://www.linkedin.com/in/ayesha-abdullahi/)
 [My Notion Portfolio](https://www.notion.so/Hello-my-name-is-Ayesha-Abdulahi-20e499bed290800098b6dac6cd79a6a5?source=copy_link)
 
 
