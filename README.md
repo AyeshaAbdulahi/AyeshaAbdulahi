@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ayesha! <br/><a href="https://www.linkedin.com/in/ayesha-abdullahi">Undergraduate Student at George Mason University</a> <a href="https://github.com/ayeshaabdullahi">and Aspiring Data Scientist and Machine Learning Engineer</a> 
+<h1>Hi, I'm Ayesha! <br/><a href="ayeshaabdullahi66@gmail.com">Undergraduate Student at George Mason University</a> <a href="https://github.com/ayeshaabdullahi">and Aspiring Data Scientist and Machine Learning Engineer</a> 
 
 <h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧):</h2>
 
