@@ -5,8 +5,7 @@
 <p>
 I’m passionate about tackling real-world problems through data analysis and predictive modeling. As a Break Through Tech Fellow, I’ve been able to grow my technical skills and leadership abilities while working on impactful projects. I’m always looking to expand my knowledge and experience in machine learning and data science. Currently, I’m focused on developing machine learning models and enhancing my data science expertise. If you have any exciting opportunities where I can contribute and continue to learn, I’d love to connect!
 </p>
-g machine learning models and enhancing my data science expertise. If you have any exciting opportunities where I can contribute and continue to learn, I’d love to connect!
-</p>
+
 
 
 
