@@ -25,6 +25,9 @@
 
 [<img align="left" alt="Notion" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/notion.svg" />](https://www.notion.so/Hello-my-name-is-Ayesha-Abdulahi-20e499bed290800098b6dac6cd79a6a5?source=copy_link)
 
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yourname@gmail.com)
+
+
 
 
 <!--
