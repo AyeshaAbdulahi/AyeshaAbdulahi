@@ -1,4 +1,5 @@
-<h1>Hi, I'm Ayesha!👋🏼 <br/><span style="text-transform: none;">Undergraduate Student at George Mason University</span> and Aspiring Data Scientist and Machine Learning Engineer</h1>
+<h1><strong>Hi, I'm Ayesha!👋🏼</strong></h1>
+<p>Undergraduate Student at George Mason University and Aspiring Data Scientist and Machine Learning Engineer</p>
 
 
 
