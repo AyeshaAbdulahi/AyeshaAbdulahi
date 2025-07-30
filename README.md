@@ -10,7 +10,7 @@ I’m passionate about tackling real-world problems through data analysis and pr
 
 
 
-<h2>👩🏽‍💻 Data Analysis Projects (under construction 🚧):</h2>
+<h2>👩🏽‍💻 Data Analysis Projects:</h2>
 
 - [Phone Database](https://github.com/ayeshaabdullahi/Phone-Database)
 - [Data Analysis for Sustainability Project](https://github.com/ayeshaabdullahi/Data-Analysis-for-Sustainability-Project)
