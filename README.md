@@ -18,6 +18,7 @@ I’m passionate about tackling real-world problems through data analysis and pr
 - [Netflix vs Hulu: Analyzing Streaming Service Content](https://github.com/ayeshaabdullahi/Netflix-vs.-Hulu-Analyzing-Streaming-Service-Content)
 - [Orbital Space Launches Dashboard](https://github.com/ayeshaabdullahi/Tableau-Dashboard)
 - [Crime Analysis Project](https://github.com/ayeshaabdullahi/DATA-ANALYSIS-PROJECT)
+- [TF-IDF Sentinment Classifier for Book Reviews](https://github.com/ayeshaabdullahi/tf-idf-sentinment-classifier-for-book-reviews)
 
 
 
