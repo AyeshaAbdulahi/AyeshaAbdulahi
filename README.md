@@ -12,13 +12,13 @@ I’m passionate about tackling real-world problems through data analysis and pr
 
 <h2>👩🏽‍💻 Data Analysis Projects:</h2>
 
-- [TF-IDF Sentinment Classifier for Book Reviews](https://github.com/ayeshaabdullahi/tf-idf-sentinment-classifier-for-book-reviews)
-- [Phone Database](https://github.com/ayeshaabdullahi/Phone-Database)
-- [Data Analysis for Sustainability Project](https://github.com/ayeshaabdullahi/Data-Analysis-for-Sustainability-Project)
-- [Website Audience Analysis Project](https://github.com/ayeshaabdullahi/Website-Audience-Analysis-Project)
-- [Netflix vs Hulu: Analyzing Streaming Service Content](https://github.com/ayeshaabdullahi/Netflix-vs.-Hulu-Analyzing-Streaming-Service-Content)
-- [Orbital Space Launches Dashboard](https://github.com/ayeshaabdullahi/Tableau-Dashboard)
-- [Crime Analysis Project](https://github.com/ayeshaabdullahi/DATA-ANALYSIS-PROJECT)
+- [tf-idf sentinment classifier for book reviews](https://github.com/ayeshaabdullahi/tf-idf-sentinment-classifier-for-book-reviews)
+- [iphone 15 vs samsung 24](https://github.com/ayeshaabdullahi/Phone-Database)
+- [intel sustainability report analysis](https://github.com/ayeshaabdullahi/Data-Analysis-for-Sustainability-Project)
+- [grammys audience analysis](https://github.com/ayeshaabdullahi/Website-Audience-Analysis-Project)
+- [netflix vs hulu: analyzing streaming service content](https://github.com/ayeshaabdullahi/Netflix-vs.-Hulu-Analyzing-Streaming-Service-Content)
+- [orbital space launches analysis](https://github.com/ayeshaabdullahi/Tableau-Dashboard)
+- [crime data analysis](https://github.com/ayeshaabdullahi/DATA-ANALYSIS-PROJECT)
 
 
 
