@@ -10,7 +10,7 @@ I’m passionate about tackling real-world problems through data analysis and pr
 
 
 
-<h2>👩🏽‍💻 Data Science/Analysis Projects:</h2>
+<h2>👩🏽‍💻 Data Science Projects:</h2>
 
 - [tf-idf sentinment classifier for book reviews](https://github.com/ayeshaabdullahi/tf-idf-sentinment-classifier-for-book-reviews)
 - [iphone 15 vs samsung 24](https://github.com/ayeshaabdullahi/Phone-Database)
