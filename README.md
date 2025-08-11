@@ -3,14 +3,14 @@
 <strong>🔭 Aspiring Data Scientist, Machine Learning Engineer, and Back-End Developer specializing in Python and SQL</strong><br><br>
 
 <p>
-I’m passionate about tackling real-world problems through data analysis and predictive modeling. As a Break Through Tech Fellow, I’ve been able to grow my technical skills and leadership abilities while working on impactful projects. I’m always looking to expand my knowledge and experience in machine learning and data science. Currently, I’m focused on developing machine learning models and enhancing my data science expertise. If you have any exciting opportunities where I can contribute and continue to learn, I’d love to connect! Feel free to reach out to me via email: ayeshaabdullahi66@gmail.com.
+I’m passionate about tackling real-world problems through data analysis and predictive modeling. As a Break Through Tech Fellow, I’ve been able to grow my technical skills and leadership abilities while working on impactful projects. I’m always looking to expand my knowledge and experience in data science, machine learning, and backend development. Currently, I’m focused on enhancing my data science expertise, devloping machine learning models, and building backend systems that integrate with databases. If you have any exciting opportunities where I can contribute and continue to learn, I’d love to connect! Feel free to reach out to me via email: ayeshaabdullahi66@gmail.com.
 </p>
 
 
 
 
 
-<h2>👩🏽‍💻 Data Analysis Projects:</h2>
+<h2>👩🏽‍💻 Data Science/Analysis Projects:</h2>
 
 - [tf-idf sentinment classifier for book reviews](https://github.com/ayeshaabdullahi/tf-idf-sentinment-classifier-for-book-reviews)
 - [iphone 15 vs samsung 24](https://github.com/ayeshaabdullahi/Phone-Database)
