@@ -1,33 +1,27 @@
-<h1><strong>Hi, I'm Ayesha!👋🏼</strong></h1>
-<strong>🎓 Undergraduate student at George Mason University, studying Data Science and Criminology</strong><br><br>
-<strong>🔭 Aspiring Data Scientist, Machine Learning Engineer, and Back-End Developer specializing in Python and SQL</strong><br><br>
-
-<p>
-I’m passionate about tackling real-world problems through data analysis and predictive modeling. As a Break Through Tech Fellow, I’ve been able to grow my technical skills and leadership abilities while working on impactful projects. I’m always looking to expand my knowledge and experience in data science, machine learning, and backend development. Currently, I’m focused on enhancing my data science expertise, devloping machine learning models, and building backend systems that integrate with databases. If you have any exciting opportunities where I can contribute and continue to learn, I’d love to connect! Feel free to reach out to me via email: ayeshaabdullahi66@gmail.com.
-</p>
+# 💫 About Me:
+I'm currently working on: building machine learning models, backend systems that integrate with databases, and research projects combining data science with criminology.<br><br>I'm looking to collaborate on: data science, machine learning, or backend development projects that solve real-world problems.<br><br>I'm looking for help with: growing my expertise in scalable machine learning engineering and cloud platforms (AWS, Azure, GCP).<br><br>I'm currently learning: advanced machine learning, optimization techniques, and cloud computing for data-driven applications.<br><br>Ask me about: data analysis, criminology research, or my experience balancing a double major in Data Science and Criminology.<br><br>Fun fact: I love discovering new restaurants and cafés—my favorite so far is Karahi Boys! 🍽️
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayesha-abdulahi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayeshaabdullahi66@gmail.com) 
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AyeshaAbdulahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AyeshaAbdulahi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAbdulahi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AyeshaAbdulahi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<h2>👩🏽‍💻 Data Science Projects:</h2>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
-- [iphone 15 vs samsung 24](https://github.com/AyeshaAbdulahi/iphone15-vs-samsung24)
-- [intel sustainability report analysis](https://github.com/AyeshaAbdulahi/intel-sustainability-report-analysis)
-- [grammys audience analysis](https://github.com/AyeshaAbdulahi/grammys-audience-analysis)
-- [netflix vs hulu: analyzing streaming service content](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
-- [orbital space launches analysis](https://github.com/AyeshaAbdulahi/orbital-space-launches-analysis)
-- [crime data analysis](https://github.com/AyeshaAbdulahi/mapping-crime-trends)
+---
+[![](https://visitcount.itsvg.in/api?id=AyeshaAbdulahi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-<h2>⭐️ Certifications</h2>
-
-- [Intro to Technical Interview Prep](https://drive.google.com/file/d/1SCf56nh3HI9o7MSPBzKx3Os2NPojF0uO/view?usp=sharing)
-- [Google AI Certificate](https://drive.google.com/file/d/1w1Yesd26hKmb7pICh_pmSni48ImAHqsa/view?usp=sharing)
-- [Python Specialist](https://www.credential.net/35a8a5ef-e292-4558-9918-19ee14941ef4#acc.SywIENmg)
-- [SQL Specialist](https://www.credential.net/30c6c541-0fe7-482b-a712-e2812a93c3f7#acc.U1XVmMrW)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <h2> 🤳 Connect with me:</h2>
