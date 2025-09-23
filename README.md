@@ -22,10 +22,16 @@
 [![](https://visitcount.itsvg.in/api?id=AyeshaAbdulahi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 💻 Favorite projects
+<h2>👩🏽‍💻 Data Science Projects:</h2>
 
-[![Contributions](https://github.com/AyeshaAbdulahi/iphone-15-vs-samsung-s24)
+- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
+- [iphone 15 vs samsung 24](https://github.com/AyeshaAbdulahi/iphone15-vs-samsung24)
+- [intel sustainability report analysis](https://github.com/AyeshaAbdulahi/intel-sustainability-report-analysis)
+- [grammys audience analysis](https://github.com/AyeshaAbdulahi/grammys-audience-analysis)
+- [netflix vs hulu: analyzing streaming service content](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
+- [orbital space launches analysis](https://github.com/AyeshaAbdulahi/orbital-space-launches-analysis)
+- [crime data analysis](https://github.com/AyeshaAbdulahi/mapping-crime-trends)
 
-[![Contributions](https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AyeshaAbdulahi&icon=0&color=0)](https://visitcount.itsvg.in)
