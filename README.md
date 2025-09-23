@@ -1,15 +1,12 @@
 # 💫 About Me:
 🧱I'm currently working on: building machine learning models, backend systems that integrate with databases, and research projects combining data science with criminology.<br><br>💪I'm looking to collaborate on: data science, machine learning, or backend development projects that solve real-world problems.<br><br>🌱I'm looking for help with: growing my expertise in scalable machine learning engineering and cloud platforms (AWS, Azure, GCP).<br><br>📚I'm currently learning: advanced machine learning, optimization techniques, and cloud computing for data-driven applications.<br><br>🤓Ask me about: data analysis, criminology research, or my experience balancing a double major in Data Science and Criminology.<br><br>🍲Fun fact: I love discovering new restaurants and cafés—my favorite so far is Karahi Boys! 🍽️
 
-<h2>👩🏽‍💻 Data Science Projects:</h2>
+<h2>👩🏽‍💻 Featured Data Science Projects:</h2>
 
 - [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
 - [iphone 15 vs samsung 24](https://github.com/AyeshaAbdulahi/iphone15-vs-samsung24)
-- [intel sustainability report analysis](https://github.com/AyeshaAbdulahi/intel-sustainability-report-analysis)
-- [grammys audience analysis](https://github.com/AyeshaAbdulahi/grammys-audience-analysis)
 - [netflix vs hulu: analyzing streaming service content](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
-- [orbital space launches analysis](https://github.com/AyeshaAbdulahi/orbital-space-launches-analysis)
-- [crime data analysis](https://github.com/AyeshaAbdulahi/mapping-crime-trends)
+
 
 
 ## 🌐 Socials:
