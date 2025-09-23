@@ -23,7 +23,7 @@
 
 ### 💻 Favorite projects
 
-[![Contributions](https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AyeshaAbdulahi/iphone-15-vs-samsung-s24)
+[![Contributions](https://github.com/AyeshaAbdulahi/iphone-15-vs-samsung-s24)
 
 [![Contributions](https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
 
