@@ -22,8 +22,10 @@
 [![](https://visitcount.itsvg.in/api?id=AyeshaAbdulahi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 💻 Favorite projects
-![]([https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/AyeshaAbdulahi/iphone-15-vs-samsung-s24))
-![]([[https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/AyeshaAbdulahi/iphone-15-vs-samsung-s24](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)))
+
+[![Contributions](https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AyeshaAbdulahi/iphone-15-vs-samsung-s24)
+
+[![Contributions](https://github-contributor-stats.vercel.app/api?username=AyeshaAbdulahi&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AyeshaAbdulahi&icon=0&color=0)](https://visitcount.itsvg.in)
