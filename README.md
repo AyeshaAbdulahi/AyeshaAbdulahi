@@ -1,16 +1,16 @@
 # 💫 About Me:
 🧱I'm currently working on: ML models, statistical modeling, and automations + AI agents.<br><br>
 💪I'm looking to collaborate on: data science, machine learning, and backend development projects that solve real-world problems.<br><br>
-🌱I'm looking for help with: growing my skills in scalable ML engineering and cloud platforms (AWS, Azure, GCP).<br><br>
+🌱I'm looking for help with: growing my skills in AWS cloud platforms!<br><br>
 📚I'm currently learning: advanced ML, optimization techniques, and cloud computing for data-driven applications.<br><br>
-🤓Ask me about: data analysis, criminology research, or balancing a double major in Data Science and Criminology.<br><br>
-🍲Fun fact: I love exploring new restaurants—current favorite: Karahi Boys! 🍽️
+🤓Ask me about: balancing a double major in Data Science and Criminology.<br><br>
+🍲Fun fact: I love exploring new restaurants, my current favorite is Karahi Boys! 🍽️
 
 
 <h2>👩🏽‍💻 Featured Data Science Projects:</h2>
 
-- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
 - [iphone 15 vs samsung 24](https://github.com/AyeshaAbdulahi/iphone15-vs-samsung24)
+- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
 - [netflix vs hulu: analyzing streaming service content](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
 
 
