@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧱I'm currently working on: ML models, backend systems with databases, and data science + criminology research.<br><br>
+🧱I'm currently working on: ML models, statistical modeling, and automations + AI agents.<br><br>
 💪I'm looking to collaborate on: data science, machine learning, and backend development projects that solve real-world problems.<br><br>
 🌱I'm looking for help with: growing my skills in scalable ML engineering and cloud platforms (AWS, Azure, GCP).<br><br>
 📚I'm currently learning: advanced ML, optimization techniques, and cloud computing for data-driven applications.<br><br>
