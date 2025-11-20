@@ -10,8 +10,8 @@
 <h2>👩🏽‍💻 Featured Data Science Projects:</h2>
 
 - [iphone 15 vs samsung 24](https://github.com/AyeshaAbdulahi/iphone15-vs-samsung24)
-- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
 - [netflix vs hulu: analyzing streaming service content](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
+- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
 
 
 
