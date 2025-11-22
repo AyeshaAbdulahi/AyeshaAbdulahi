@@ -1,7 +1,7 @@
 # 💫 About Me:
 🧱 Currently working on: ML models, statistical modeling, and web applications.<br><br>
 🌱 Currently Improving: automations, AI agents, and AWS cloud skills.<br><br>
-💬 My Hobbies: I enjoy playing pickle ball, shopping, and traveling.
+💬 My Hobbies: I enjoy playing pickle ball, shopping, and traveling.<br><br>
 🤓 Ask me about: balancing a double major in Data Science and Criminology! <br><br>
 🍲 Fun fact: Indian cuisine is my favorite, and my go-to restaurant is Karahi Boys!
 
