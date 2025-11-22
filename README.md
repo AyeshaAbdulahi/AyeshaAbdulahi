@@ -1,10 +1,9 @@
 # 💫 About Me:
-🧱I'm currently working on: ML models, statistical modeling, and automations + AI agents.<br><br>
-💪I'm looking to collaborate on: data science, machine learning, and backend development projects that solve real-world problems.<br><br>
-🌱I'm looking for help with: growing my skills in AWS cloud platforms!<br><br>
-📚I'm currently learning: advanced ML, optimization techniques, and cloud computing for data-driven applications.<br><br>
-🤓Ask me about: balancing a double major in Data Science and Criminology.<br><br>
-🍲Fun fact: I love exploring new restaurants, my current favorite is Karahi Boys! 🍽️
+🧱 Currently working on: ML models, statistical modeling, and web applications.<br><br>
+🌱 Currently Improving: automations, AI agents, and AWS cloud skills.<br><br>
+💬 My Hobbies: I enjoy playing pickle ball, shopping, and traveling.
+🤓 Ask me about: balancing a double major in Data Science and Criminology! <br><br>
+🍲 Fun fact: Indian cuisine is my favorite, and my go-to restaurant is Karahi Boys!
 
 
 <h2>👩🏽‍💻 Featured Data Science Projects:</h2>
