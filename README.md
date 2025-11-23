@@ -3,7 +3,7 @@
 🌱 Currently Improving: automations, AI agents, and AWS cloud skills.<br><br>
 💬 My Hobbies: I enjoy playing pickle ball, shopping, and traveling.<br><br>
 🤓 Ask me about: balancing a double major in Data Science and Criminology! <br><br>
-🍲 Fun fact: Indian cuisine is my favorite and my go-to restaurant is Karahi Boys!
+⚡ Fun fact: I write a future letter to myself every year to to reflect on my growth:) 
 
 
 <h2>👩🏽‍💻 Featured Data Science Projects:</h2>
