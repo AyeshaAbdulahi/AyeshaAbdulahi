@@ -5,7 +5,23 @@
 🤓 Ask me about: balancing a double major in Data Science and Criminology! <br><br>
 ⚡ Fun fact: I write a future letter to myself every year to to reflect on my growth:) 
 
-Evaluator Insight – B2B Buyer-Psychology Platform (Break Through Tech AI Program): Check out my team’s project repository for our real-world AI project with Chambers Capital Ventures, developed as part of Break Through Tech’s Fall 2024 AI Studio! Over this project, we combined cleaned survey transcripts and public-domain firmographics with lightweight NLP and clustering models to profile B2B decision-makers, extract key motivators, create actionable personas, and build a concise dashboard to guide pitch strategies. [https://github.com/Chambers-Capital-Ventures-Inc/Evaluator-Insight]
+# Evaluator Insight – B2B Buyer-Psychology Platform  
+**Program:** Break Through Tech AI Program – Fall 2024 AI Studio  
+**Company:** Chambers Capital Ventures  
+**Team:** Chambers Capital 1A  
+
+Check out my team’s project repository for our **real-world AI project** with Chambers Capital Ventures! Over this project, we:  
+
+- Combined **cleaned survey transcripts** and **public-domain firmographics**  
+- Applied **lightweight NLP and clustering models** to profile B2B decision-makers  
+- Extracted **key motivators and sentiment** from prospects  
+- Grouped prospects into **actionable personas**  
+- Built a **concise dashboard** recommending pitch strategies within free-tier GPU/storage limits  
+
+This project helped founders validate messaging before costly go-to-market launches.  
+
+🔗 [Project Repository on GitHub](https://github.com/Chambers-Capital-Ventures-Inc/Evaluator-Insight)
+
 
 
 <h2>👩🏽‍💻 Featured Data Science Projects:</h2>
