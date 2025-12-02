@@ -26,7 +26,7 @@ Check out my team’s project repository for our **real-world AI project** with 
 
 This project helped founders validate messaging before costly go-to-market launches.  
 
-🔗 [Project Repository on GitHub](https://github.com/Chambers-Capital-Ventures-Inc/Evaluator-Insight)
+🔗 [Evaluator Insight Repository on GitHub](https://github.com/Chambers-Capital-Ventures-Inc/Evaluator-Insight)
 
 
 
