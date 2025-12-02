@@ -34,7 +34,6 @@ This project helped founders validate messaging before costly go-to-market launc
 
 - [iphone 15 vs samsung 24](https://github.com/AyeshaAbdulahi/iphone15-vs-samsung24)
 - [netflix vs hulu: analyzing streaming service content](https://github.com/AyeshaAbdulahi/netflix-vs-hulu-analyzing-streaming-service-content)
-- [book reviews classifier](https://github.com/AyeshaAbdulahi/tf-idf-sentinment-classifier-for-book-reviews)
 
 
 
